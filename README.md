@@ -1,6 +1,6 @@
 ## Before Designing A Web site
 
-### **✔️ Have to Do: 6 things**
+### **✔️ Have to Do: (6 things)**
 
 1.  **✔️ Purpose-wise website category simplification.** *[ what kinds of site I will make and it's common look. ]*
 2.  **✔️ Website's main purpose will be eye catching. And simple designed.** *[ buying, booking, hiring, enroll]*
@@ -13,7 +13,7 @@
 
 
 
-### **❌ Have to Avoid: 7 things**
+### **❌ Have to Avoid: (7 things)**
 
 1.  **❌ Avoiding Hard color.**
 2.  **❌ Avoiding multiple colors, Using one color plate.**

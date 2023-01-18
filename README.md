@@ -2,13 +2,22 @@
 
 ### **✔️ Have to Do: (6 things)**
 
-1.  **✔️ Purpose-wise website category simplification.** *[ what kinds of site I will make and it's common look. ]*
+1.  **✔️ Purpose-wise website category simplification.** *[ what kinds of site I will make and it's common look. ]* 
 2.  **✔️ Website's main purpose will be eye catching. And simple designed.** *[ buying, booking, hiring, enroll]*
 3.  **✔️ Good alignment and spacing for card and text.**
 4.  **✔️ Using color according to user.**
 5.  **✔️ focusing on main part.**
 6.  **✔️ Using right typography and font-size/font.**
 
+### **💡 Design idea getting resources**
+- [Theme Forest](https://themeforest.net/)
+- [Dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [Awwwards](https://www.awwwards.com/)
+- [Figma (most favorite**)](https://www.figma.com/community) *Search in google figma resources*
+
+*[ As a junior designer search a figma template and customized it to make new design. ]*
+****
 ***[ Researching before designing the site. Get ideas from same kinds of sites. ]***
 
 
